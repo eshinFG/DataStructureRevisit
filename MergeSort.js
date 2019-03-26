@@ -46,3 +46,10 @@ let mergeSort = (arr) => {
 mergeSort([10,24,76,73,72,1,9])
 
 // merge([1,10,50], [2,14,99,100]);
+
+
+// SPLIT SPLIT SPLIT SPLIT
+// time complexity : O n log n
+// time averge : o n log n
+// time worst : O n log n
+// space complexity : O n
