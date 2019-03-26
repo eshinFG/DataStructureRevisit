@@ -166,4 +166,5 @@ ER.dequeue();
 
 // Insertion - O log N
 // Removal - O log N
-// Search O N
+// Search O N - Not good for search. Gonna have to search all nodes.
+ 
