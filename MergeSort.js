@@ -53,3 +53,12 @@ mergeSort([10,24,76,73,72,1,9])
 // time averge : o n log n
 // time worst : O n log n
 // space complexity : O n
+
+mergeSort1 = (array) => {
+  if(array.length === 1) {
+    return array;
+  }
+
+  return merge(mergeSort1(left));
+  
+}
