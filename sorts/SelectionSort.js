@@ -25,3 +25,7 @@ selectionSort = array => {
 
 
 }
+
+// time complexity of o(n^2)
+// slow
+// better than bubble sort
